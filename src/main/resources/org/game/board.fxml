@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+
+<GridPane alignment="CENTER" style="-fx-background-color: #bbada0; -fx-vgap: 17; -fx-hgap: 17; -fx-padding: 17;">
+    <columnConstraints>
+        <ColumnConstraints hgrow="NEVER" prefWidth="100.0"/>
+        <ColumnConstraints hgrow="NEVER" prefWidth="100.0"/>
+        <ColumnConstraints hgrow="NEVER" prefWidth="100.0"/>
+        <ColumnConstraints hgrow="NEVER" prefWidth="100.0"/>
+    </columnConstraints>
+    <rowConstraints>
+        <RowConstraints vgrow="NEVER" prefHeight="100.0"/>
+        <RowConstraints vgrow="NEVER" prefHeight="100.0"/>
+        <RowConstraints vgrow="NEVER" prefHeight="100.0"/>
+        <RowConstraints vgrow="NEVER" prefHeight="100.0"/>
+    </rowConstraints>
+    <Rectangle fill="#cdc1b4" height="100.0" width="100.0" GridPane.columnIndex="0" GridPane.halignment="CENTER" GridPane.rowIndex="0" GridPane.valignment="CENTER"/>
+    <Rectangle fill="#cdc1b4" height="100.0" width="100.0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="0" GridPane.valignment="CENTER"/>
+    <Rectangle fill="#cdc1b4" height="100.0" width="100.0" GridPane.columnIndex="2" GridPane.halignment="CENTER" GridPane.rowIndex="0" GridPane.valignment="CENTER"/>
+    <Rectangle fill="#cdc1b4" height="100.0" width="100.0" GridPane.columnIndex="3" GridPane.halignment="CENTER" GridPane.rowIndex="0" GridPane.valignment="CENTER"/>
+    <Rectangle fill="#cdc1b4" height="100.0" width="100.0" GridPane.columnIndex="0" GridPane.halignment="CENTER" GridPane.rowIndex="1" GridPane.valignment="CENTER"/>
+    <Rectangle fill="#cdc1b4" height="100.0" width="100.0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="1" GridPane.valignment="CENTER"/>
+    <Rectangle fill="#cdc1b4" height="100.0" width="100.0" GridPane.columnIndex="2" GridPane.halignment="CENTER" GridPane.rowIndex="1" GridPane.valignment="CENTER"/>
+    <Rectangle fill="#cdc1b4" height="100.0" width="100.0" GridPane.columnIndex="3" GridPane.halignment="CENTER" GridPane.rowIndex="1" GridPane.valignment="CENTER"/>
+    <Rectangle fill="#cdc1b4" height="100.0" width="100.0" GridPane.columnIndex="0" GridPane.halignment="CENTER" GridPane.rowIndex="2" GridPane.valignment="CENTER"/>
+    <Rectangle fill="#cdc1b4" height="100.0" width="100.0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="2" GridPane.valignment="CENTER"/>
+    <Rectangle fill="#cdc1b4" height="100.0" width="100.0" GridPane.columnIndex="2" GridPane.halignment="CENTER" GridPane.rowIndex="2" GridPane.valignment="CENTER"/>
+    <Rectangle fill="#cdc1b4" height="100.0" width="100.0" GridPane.columnIndex="3" GridPane.halignment="CENTER" GridPane.rowIndex="2" GridPane.valignment="CENTER"/>
+    <Rectangle fill="#cdc1b4" height="100.0" width="100.0" GridPane.columnIndex="0" GridPane.halignment="CENTER" GridPane.rowIndex="3" GridPane.valignment="CENTER"/>
+    <Rectangle fill="#cdc1b4" height="100.0" width="100.0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="3" GridPane.valignment="CENTER"/>
+    <Rectangle fill="#cdc1b4" height="100.0" width="100.0" GridPane.columnIndex="2" GridPane.halignment="CENTER" GridPane.rowIndex="3" GridPane.valignment="CENTER"/>
+    <Rectangle fill="#cdc1b4" height="100.0" width="100.0" GridPane.columnIndex="3" GridPane.halignment="CENTER" GridPane.rowIndex="3" GridPane.valignment="CENTER"/>
+</GridPane>

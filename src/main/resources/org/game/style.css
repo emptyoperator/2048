@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Clear Sans Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Clear Sans Bold'), url('ClearSans-Bold.woff') format('woff');
+}
+
+.root {
+    -fx-font-family: 'Clear Sans Bold';
+}
